@@ -9,3 +9,5 @@ Cheat sheets for Git
 - git push -u origin main
 - pwd - present working directory
 - ls - list of files
+- mkdir
+code .
